@@ -1,0 +1,11 @@
+body{
+    margin: auto;
+    background-color: black;
+    font-size: 30px sans-serif ; 
+    cursor:none;
+
+}
+
+canvas{
+    position: absolute; 
+}
